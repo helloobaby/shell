@@ -1,10 +1,7 @@
 En:  
 lightwight shell to get simple interaction(because writing gui is cumbersome)
-
 google c++ style
-
 only for windows
-
 usage: copy shell.hh and shell.cc to your project
 
 Ch: 
@@ -26,7 +23,7 @@ int main()
 }
 ```
 
-
+![img](https://github.com/helloobaby/shell/1.gif)
 
 
 
