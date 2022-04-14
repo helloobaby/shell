@@ -2,7 +2,7 @@
 #include "shell.hh"
 using namespace std;
 
-void f() { cout << "hello world\n"; };
+void f(const char* param) { cout << param << endl; };
 
 int main()
 {
