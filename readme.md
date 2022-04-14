@@ -25,5 +25,8 @@ int main()
 ![img](https://github.com/helloobaby/shell/blob/master/1.gif)
 
 
+one simple example project  
+https://github.com/helloobaby/hearthstone_assistant
+
 
 
